@@ -31,10 +31,10 @@ public class Comparison {
 		int num = 10;
 
 		// If statement
-		if (num >= 10 || num <= 10) {
+		if (num >= 10) {
 
 			System.out.println("number is greater than 10");
-		} else {
+		} else if (num <= 10) {
 
 			System.out.print("number is smaller then 10");
 
