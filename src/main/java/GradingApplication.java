@@ -28,6 +28,7 @@ public class GradingApplication {
 	/**
 	 * @param args
 	 */
+
 	public static void main(String[] args) {
 		// Local variable
 		Scanner scanner = new Scanner(System.in);
